@@ -1,3 +1,3 @@
 # startup-landing-page
 
-A side project
+<h3>A side project</h3>
